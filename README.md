@@ -61,7 +61,7 @@ python mini_project_melvina.py
 ```bash
 jupyter notebook Mini_project_Melvina.ipynb
 ```
-##Contributing
+## Contribution
 Contributions are welcome! Please follow these steps to contribute:
 
 1. Fork the repository
@@ -71,13 +71,13 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Push to the branch (git push origin feature-branch)
 6. Create a new Pull Request
 
-##Contact
+## Contact
 For any questions or feedback, please contact:
 
 Melvina Christy N
 Email: melvina.christy@gmail.com
 LinkedIn: Melvina Christy N
 
-Acknowledgements
+## Acknowledgements
 Special thanks to [Six Square Sports] for the past internship experience.
 Thanks to [Karunya University] for academic support.
