@@ -33,7 +33,7 @@ To install and set up this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/melvvvvina/Breast-Cancer-Prediction-using-ML/tree/main.git
+   git clone https://github.com/melvinachristy/Breast-Cancer-Prediction-using-ML/tree/main.git
 
 ## Navigate to the project directory:
    ```bash
