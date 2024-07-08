@@ -75,8 +75,10 @@ Contributions are welcome! Please follow these steps to contribute:
 For any questions or feedback, please contact:
 
 Melvina Christy N
+
 Email: melvina.christy@gmail.com
-LinkedIn: Melvina Christy N
+
+LinkedIn: https://www.linkedin.com/in/melvinachristy21
 
 ## Acknowledgements
 Special thanks to [Six Square Sports] for the past internship experience.
